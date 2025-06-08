@@ -33,27 +33,22 @@ C. Grafice: Corelogramă indecși KMO, plot și corelogramă corelații factoria
 Opțional: hartă scoruri factoriale<br/>
 
 # Tema 2
-Analiză liniară discriminantă
-Tabele: Puterea de discriminare a variabilelor predictor și testele Fisher pentru predictori,
-scoruri discriminante (variabile discriminante), puterea de descriminare a variabilelor
-discriminante și testele Fisher aplicate variabilelor discriminante, clasificarea în setul de
-antrenament, acuratețea clasificării, matricea de confuzie
-Grafice: plot instanțe pe grupe și centrii în axele discriminante, distribuții axe discriminante
-Discriminarea Bayesiană
-Tabele: Clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie
-Aplicarea celui mai bun model pe setul de aplicare și salvarea predicțiilor într-un tabel. Alegerea
-celui mai bun model se face după acuratețea globală sau indexul Cohen-Kappa.
+Analiză liniară discriminantă<br/>
+Tabele: Puterea de discriminare a variabilelor predictor și testele Fisher pentru predictori, scoruri discriminante (variabile discriminante), puterea de descriminare a variabilelor discriminante și testele Fisher aplicate variabilelor discriminante, clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie<br/>
+Grafice: plot instanțe pe grupe și centrii în axele discriminante, distribuții axe discriminante<br/>
+Discriminarea Bayesiană<br/>
+Tabele: Clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie<br/>
+Aplicarea celui mai bun model pe setul de aplicare și salvarea predicțiilor într-un tabel. Alegerea celui mai bun model se face după acuratețea globală sau indexul Cohen-Kappa.<br/>
 
 # Tema 3. Analiză de clusteri
-Vor fi calculate cel puțin două partiții: partiția optimală și cel puțin încă o partiție. Partiția optimală
-se va determina prin algoritmul Elbow.
-La fiecare partiție vor fi evidențiate:
-- componența partiției (clusterii cu instanțele aparținătoare);
-- scorul Silhouette și graficul Silhouette;
-- graficul dendrogramă;
-- plot instanțe pe clusteri în primele două axe principale (componente);
-- histograme pe clusteri.
-Opțional: hartă clusteri
+Vor fi calculate cel puțin două partiții: partiția optimală și cel puțin încă o partiție. Partiția optimală se va determina prin algoritmul Elbow.<br/>
+La fiecare partiție vor fi evidențiate:<br/>
+- componența partiției (clusterii cu instanțele aparținătoare);<br/>
+- scorul Silhouette și graficul Silhouette;<br/>
+- graficul dendrogramă;<br/>
+- plot instanțe pe clusteri în primele două axe principale (componente);<br/>
+- histograme pe clusteri.<br/>
+Opțional: hartă clusteri<br/>
 
 
 # eu am ales tema 3
