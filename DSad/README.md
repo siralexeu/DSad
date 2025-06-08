@@ -9,14 +9,13 @@ Fișierul word/pdf cu prezentarea proiectului va fi structurat astfel:
 4. Tabele, grafice și comentarii în conformitate cu tema aleasă.
   
 Tematica pentru proiecte este următoarea:
-Tema 1. Reducerea dimensionalității
-Metode: Analiza în componente principale și Analiză factorială
-Tema 2. Analiză discriminantă - Clasificare supervizată
-Metode: Analiza liniară discriminantă și Discriminarea Bayesiană
-Tema 3. Analiză de cluster - Clasificare nesupervizată
-Metode: Algoritmi ierarhici
-Pentru proiect se va alege una dintre aceste teme. Proiectul poate fi realizat în echipe de maxim 3
-studenți.
+Tema 1. Reducerea dimensionalității <br/>
+Metode: Analiza în componente principale și Analiză factorială<br/>
+Tema 2. Analiză discriminantă - Clasificare supervizată<br/>
+Metode: Analiza liniară discriminantă și Discriminarea Bayesiană<br/>
+Tema 3. Analiză de cluster - Clasificare nesupervizată<br/>
+Metode: Algoritmi ierarhici<br/>
+Pentru proiect se va alege una dintre aceste teme. Proiectul poate fi realizat în echipe de maxim 3 studenți.
 
 Cerințe pentru fiecare temă:
 Tema 1.
