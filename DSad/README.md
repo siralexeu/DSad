@@ -26,6 +26,7 @@ Analiza în componente principale<br/>
 A. Tabele: distribuția varianței, scorurile, corelațiile dintre variabilele observate și componentele principale, contribuțiile, cosinusurile, comunalitațile<br/>
 B. Grafice: plot varianță componente cu evidențierea criteriilor de selecție a componentelor semnificative, plot scoruri, plot corelații dintre variabilele observate și componente (cercul corelațiilor), corelogramă corelații dintre variabilele observate și componente, corelogramă comunalități<br/>
 Opțional: hartă scoruri<br/>
+
 Analiza factorială<br/>
 A. Aplicare test Bartlett de sfericitate și validarea modelului (modelul este respins dacă nu trece de testul Bartlett)<br/>
 B. Tabele: Indecși KMO, varianță factori, corelații între variabilele observate și factori (corelații factoriale) cu și fără rotație, scoruri factoriale cu și fără rotație, comunalități<br/>
@@ -34,10 +35,9 @@ Opțional: hartă scoruri factoriale<br/>
 
 # Tema 2
 Analiză liniară discriminantă<br/>
-Tabele: Puterea de discriminare a variabilelor predictor și testele Fisher pentru predictori, scoruri discriminante (variabile discriminante), puterea de descriminare a variabilelor discriminante și testele Fisher aplicate variabilelor discriminante, clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie<br/>
-Grafice: plot instanțe pe grupe și centrii în axele discriminante, distribuții axe discriminante<br/>
-Discriminarea Bayesiană<br/>
-Tabele: Clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie<br/>
+A. Tabele: Puterea de discriminare a variabilelor predictor și testele Fisher pentru predictori, scoruri discriminante (variabile discriminante), puterea de descriminare a variabilelor discriminante și testele Fisher aplicate variabilelor discriminante, clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie<br/>
+B. Grafice: plot instanțe pe grupe și centrii în axele discriminante, distribuții axe discriminante Discriminarea Bayesiană<br/>
+C. Tabele: Clasificarea în setul de antrenament, acuratețea clasificării, matricea de confuzie<br/>
 Aplicarea celui mai bun model pe setul de aplicare și salvarea predicțiilor într-un tabel. Alegerea celui mai bun model se face după acuratețea globală sau indexul Cohen-Kappa.<br/>
 
 # Tema 3. Analiză de clusteri
