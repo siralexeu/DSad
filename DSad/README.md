@@ -3,8 +3,7 @@ Componența proiectului în format electronic:
 2. Fișiere csv cu tabelele de observații input
 3. Proiectul Python cu implementarea
 Fișierul word/pdf cu prezentarea proiectului va fi structurat astfel:
-1. Titlul proiectului. Exemplu: Clasificarea țărilor din Europa după activitatea agricolă (Tema 3
-- Analiză de clusteri);
+1. Titlul proiectului. Exemplu: Clasificarea țărilor din Europa după activitatea agricolă (Tema 3 - Analiză de clusteri);
 2. Sursa datelor (link sau specificarea explicită a sursei);
 3. Specificarea numelor fișierelor de intrare csv;
 4. Tabele, grafice și comentarii în conformitate cu tema aleasă.
