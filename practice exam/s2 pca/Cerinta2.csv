@@ -1,0 +1,6 @@
+Continent,Librarie,CostLunarBasic,CostLunarStandard,CostLunarPremium,Internet,HDI,Venit,IndiceFericire,IndiceEducatie
+Europa,0.311,0.0,0.109,0.177,0.134,0.089,0.608,0.089,0.076
+AmericaN,0.149,0.073,0.084,0.067,0.29,0.204,0.944,0.062,0.271
+Asia,0.043,0.456,0.319,0.325,0.291,0.171,0.882,0.241,0.191
+AmericaS,0.024,0.301,0.263,0.213,0.103,0.066,0.453,0.066,0.105
+Oceania,,,,,,,,,
